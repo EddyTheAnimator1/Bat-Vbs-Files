@@ -1,0 +1,1 @@
+x=msgbox("OOOO NIcE ComPutEr YoU GoT ThErE CaN i TaKe It?", 0+16, "Windows")

@@ -1,0 +1,1 @@
+x=msgbox("Ok well your computer is kinda died.", 0+16, "Windows")
